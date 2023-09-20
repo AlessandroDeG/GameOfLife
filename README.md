@@ -29,15 +29,15 @@ Includes some experiments and variations on the rules.
 
 
 
-![Game0](/Game0.png)
+![Game0](/GameOfLife/Game0.png)
 
 ...
 
-![Game1](/Game1.png)
+![Game1](/GameOfLife/Game1.png)
 
 ...
 
-![Game2](/Game2.png)
+![Game2](/GameOfLife/Game2.png)
 
 
 
