@@ -8,9 +8,16 @@ An increbibly interesting turing complete cellular automata.
 Includes some experiments and variations on the rules.
 
 How to play:
+
 -Draw initial conditions by clicking on the pygame GUI, then press ENTER to make the cells alive.
+
 -Press Z key to toggle zooming/simulation speed modes.
+
 -Arrow keys UP/DOWN to zoom/change simulation speed.
+
+-Press M to toggle drawing / moving by clicking mode.
+
+
 
 
 
