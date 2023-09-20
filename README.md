@@ -8,7 +8,7 @@ An increbibly interesting turing complete cellular automata.
 Includes some experiments and variations on the rules.
 
 
-How to play:
+**How to play:**
 
 -Draw initial conditions by clicking on the pygame GUI, then press ENTER to make the cells alive.
 
@@ -19,7 +19,7 @@ How to play:
 -Press M to toggle drawing/moving by clicking mode.
 
 
-Possible future improvements:
+**Possible future improvements:**
 
 -Add preset configurations (gliders, guns, etc.)
 
